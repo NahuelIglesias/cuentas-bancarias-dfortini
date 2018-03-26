@@ -16,7 +16,5 @@ object cuentaDeJulian {
 		// TODO
 	} 
 
-	method extraer(monto) {
-		// TODO
-	}
+	method extraer(monto) { saldo -= monto }
 }
